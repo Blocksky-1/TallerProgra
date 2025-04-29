@@ -43,8 +43,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AlumnosAcciones.cs" />
     <Compile Include="Circulo.cs" />
     <Compile Include="Cuadrado.cs" />
+    <Compile Include="Ejemplos.cs" />
+    <Compile Include="Alumnos.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Triangle.cs" />

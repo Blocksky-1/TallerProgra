@@ -1,0 +1,7 @@
+C:\Users\Block\OneDrive\Escritorio\TALLER\ClaseTaller5\bin\Debug\ClaseTaller5.exe.config
+C:\Users\Block\OneDrive\Escritorio\TALLER\ClaseTaller5\bin\Debug\ClaseTaller5.exe
+C:\Users\Block\OneDrive\Escritorio\TALLER\ClaseTaller5\bin\Debug\ClaseTaller5.pdb
+C:\Users\Block\OneDrive\Escritorio\TALLER\ClaseTaller5\obj\Debug\ClaseTaller5.csproj.AssemblyReference.cache
+C:\Users\Block\OneDrive\Escritorio\TALLER\ClaseTaller5\obj\Debug\ClaseTaller5.csproj.CoreCompileInputs.cache
+C:\Users\Block\OneDrive\Escritorio\TALLER\ClaseTaller5\obj\Debug\ClaseTaller5.exe
+C:\Users\Block\OneDrive\Escritorio\TALLER\ClaseTaller5\obj\Debug\ClaseTaller5.pdb

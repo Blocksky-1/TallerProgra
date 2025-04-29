@@ -3,19 +3,31 @@
   "WorkspaceRootPath": "C:\\Users\\Block\\OneDrive\\Escritorio\\TALLER\\ClaseTaller5\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1CEC38E5-9125-499D-B674-BF963367018E}|ClaseTaller5.csproj|c:\\users\\block\\onedrive\\escritorio\\taller\\clasetaller5\\circulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1CEC38E5-9125-499D-B674-BF963367018E}|ClaseTaller5.csproj|solutionrelative:circulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1CEC38E5-9125-499D-B674-BF963367018E}|ClaseTaller5.csproj|c:\\users\\block\\onedrive\\escritorio\\taller\\clasetaller5\\alumnosacciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CEC38E5-9125-499D-B674-BF963367018E}|ClaseTaller5.csproj|solutionrelative:alumnosacciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1CEC38E5-9125-499D-B674-BF963367018E}|ClaseTaller5.csproj|c:\\users\\block\\onedrive\\escritorio\\taller\\clasetaller5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1CEC38E5-9125-499D-B674-BF963367018E}|ClaseTaller5.csproj|C:\\Users\\Block\\OneDrive\\Escritorio\\TALLER\\ClaseTaller5\\alumnos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CEC38E5-9125-499D-B674-BF963367018E}|ClaseTaller5.csproj|solutionrelative:alumnos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CEC38E5-9125-499D-B674-BF963367018E}|ClaseTaller5.csproj|C:\\Users\\Block\\OneDrive\\Escritorio\\TALLER\\ClaseTaller5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1CEC38E5-9125-499D-B674-BF963367018E}|ClaseTaller5.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1CEC38E5-9125-499D-B674-BF963367018E}|ClaseTaller5.csproj|c:\\users\\block\\onedrive\\escritorio\\taller\\clasetaller5\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1CEC38E5-9125-499D-B674-BF963367018E}|ClaseTaller5.csproj|C:\\Users\\Block\\OneDrive\\Escritorio\\TALLER\\ClaseTaller5\\ejemplos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CEC38E5-9125-499D-B674-BF963367018E}|ClaseTaller5.csproj|solutionrelative:ejemplos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CEC38E5-9125-499D-B674-BF963367018E}|ClaseTaller5.csproj|C:\\Users\\Block\\OneDrive\\Escritorio\\TALLER\\ClaseTaller5\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1CEC38E5-9125-499D-B674-BF963367018E}|ClaseTaller5.csproj|solutionrelative:triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1CEC38E5-9125-499D-B674-BF963367018E}|ClaseTaller5.csproj|c:\\users\\block\\onedrive\\escritorio\\taller\\clasetaller5\\cuadrado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1CEC38E5-9125-499D-B674-BF963367018E}|ClaseTaller5.csproj|C:\\Users\\Block\\OneDrive\\Escritorio\\TALLER\\ClaseTaller5\\circulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CEC38E5-9125-499D-B674-BF963367018E}|ClaseTaller5.csproj|solutionrelative:circulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CEC38E5-9125-499D-B674-BF963367018E}|ClaseTaller5.csproj|C:\\Users\\Block\\OneDrive\\Escritorio\\TALLER\\ClaseTaller5\\cuadrado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1CEC38E5-9125-499D-B674-BF963367018E}|ClaseTaller5.csproj|solutionrelative:cuadrado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -31,32 +43,67 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "AlumnosAcciones.cs",
+              "DocumentMoniker": "C:\\Users\\Block\\OneDrive\\Escritorio\\TALLER\\ClaseTaller5\\AlumnosAcciones.cs",
+              "RelativeDocumentMoniker": "AlumnosAcciones.cs",
+              "ToolTip": "C:\\Users\\Block\\OneDrive\\Escritorio\\TALLER\\ClaseTaller5\\AlumnosAcciones.cs",
+              "RelativeToolTip": "AlumnosAcciones.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T23:05:32.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Alumnos.cs",
+              "DocumentMoniker": "C:\\Users\\Block\\OneDrive\\Escritorio\\TALLER\\ClaseTaller5\\Alumnos.cs",
+              "RelativeDocumentMoniker": "Alumnos.cs",
+              "ToolTip": "C:\\Users\\Block\\OneDrive\\Escritorio\\TALLER\\ClaseTaller5\\Alumnos.cs",
+              "RelativeToolTip": "Alumnos.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T22:31:45.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Ejemplos.cs",
+              "DocumentMoniker": "C:\\Users\\Block\\OneDrive\\Escritorio\\TALLER\\ClaseTaller5\\Ejemplos.cs",
+              "RelativeDocumentMoniker": "Ejemplos.cs",
+              "ToolTip": "C:\\Users\\Block\\OneDrive\\Escritorio\\TALLER\\ClaseTaller5\\Ejemplos.cs",
+              "RelativeToolTip": "Ejemplos.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T21:37:56.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Circulo.cs",
               "DocumentMoniker": "C:\\Users\\Block\\OneDrive\\Escritorio\\TALLER\\ClaseTaller5\\Circulo.cs",
               "RelativeDocumentMoniker": "Circulo.cs",
               "ToolTip": "C:\\Users\\Block\\OneDrive\\Escritorio\\TALLER\\ClaseTaller5\\Circulo.cs",
               "RelativeToolTip": "Circulo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-24T21:13:49.646Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-24T21:13:49.646Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Triangle.cs",
               "DocumentMoniker": "C:\\Users\\Block\\OneDrive\\Escritorio\\TALLER\\ClaseTaller5\\Triangle.cs",
               "RelativeDocumentMoniker": "Triangle.cs",
               "ToolTip": "C:\\Users\\Block\\OneDrive\\Escritorio\\TALLER\\ClaseTaller5\\Triangle.cs",
               "RelativeToolTip": "Triangle.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-24T21:11:05.084Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-24T21:11:05.084Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Cuadrado.cs",
               "DocumentMoniker": "C:\\Users\\Block\\OneDrive\\Escritorio\\TALLER\\ClaseTaller5\\Cuadrado.cs",
               "RelativeDocumentMoniker": "Cuadrado.cs",
@@ -64,21 +111,19 @@
               "RelativeToolTip": "Cuadrado.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-24T21:07:40.104Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-24T21:07:40.104Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Block\\OneDrive\\Escritorio\\TALLER\\ClaseTaller5\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\Block\\OneDrive\\Escritorio\\TALLER\\ClaseTaller5\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-24T20:57:01.627Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-24T20:57:01.627Z"
             }
           ]
         }
